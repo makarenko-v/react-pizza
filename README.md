@@ -1,18 +1,5 @@
-# How to use this template
+# React Pizza
 
-### Install [degit](https://github.com/Rich-Harris/degit)
-```
-npm install -g degit
-```
+A simple project where I remembered how to work with list rendering, conditional rendering, props, etc.
 
-### Clone this template
-```
-degit makarenko-v/react-ts-simple-template
-```
-
-### Install dependencies
-```
-npm install
-```
-
-### Enjoy!
+![image](https://github.com/makarenko-v/react-pizza/assets/168454838/d7708552-1e0c-46b1-92da-f2fa5f685394)
